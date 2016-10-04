@@ -1,0 +1,36 @@
+C:\Users\German\Desktop\TPFINAL\Dominio\bin\Debug\Dominio.dll
+C:\Users\German\Desktop\TPFINAL\Dominio\bin\Debug\Dominio.pdb
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Debug\Dominio.dll
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Debug\Dominio.pdb
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Debug\Dominio.Properties.Resources.resources
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Debug\Dominio.csproj.GenerateResource.Cache
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\TPFINAL\Dominio\bin\Debug\log4net.dll
+C:\Users\German\Desktop\TPFINAL\Dominio\bin\Debug\log4net.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Dominio.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Dominio.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\AutoMapper.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\log4net.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Persistencia.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\EntityFramework.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Persistencia.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\AutoMapper.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\log4net.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\EntityFramework.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\obj\Debug\Dominio.Properties.Resources.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\obj\Debug\Dominio.csproj.GenerateResource.Cache
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\obj\Debug\Dominio.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Dominio\obj\Debug\Dominio.pdb

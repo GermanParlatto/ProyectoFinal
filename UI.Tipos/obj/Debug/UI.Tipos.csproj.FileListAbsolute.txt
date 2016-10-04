@@ -1,0 +1,5 @@
+C:\Users\German\Desktop\TPFINAL\UI.Tipos\bin\Debug\UI.Tipos.dll
+C:\Users\German\Desktop\TPFINAL\UI.Tipos\bin\Debug\UI.Tipos.pdb
+C:\Users\German\Desktop\TPFINAL\UI.Tipos\obj\Debug\UI.Tipos.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\TPFINAL\UI.Tipos\obj\Debug\UI.Tipos.dll
+C:\Users\German\Desktop\TPFINAL\UI.Tipos\obj\Debug\UI.Tipos.pdb

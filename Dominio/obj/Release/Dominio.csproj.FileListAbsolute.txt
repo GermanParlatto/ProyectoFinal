@@ -1,0 +1,7 @@
+C:\Users\German\Desktop\TPFINAL\Dominio\bin\Release\Dominio.dll
+C:\Users\German\Desktop\TPFINAL\Dominio\bin\Release\Dominio.pdb
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Release\Dominio.Properties.Resources.resources
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Release\Dominio.csproj.GenerateResource.Cache
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Release\Dominio.dll
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Release\Dominio.pdb
+C:\Users\German\Desktop\TPFINAL\Dominio\obj\Release\Dominio.csprojResolveAssemblyReference.cache

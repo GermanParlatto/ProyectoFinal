@@ -1,0 +1,5 @@
+C:\Users\German\Desktop\TPFINAL\Modelo\bin\Debug\Modelo.dll
+C:\Users\German\Desktop\TPFINAL\Modelo\bin\Debug\Modelo.pdb
+C:\Users\German\Desktop\TPFINAL\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\TPFINAL\Modelo\obj\Debug\Modelo.dll
+C:\Users\German\Desktop\TPFINAL\Modelo\obj\Debug\Modelo.pdb

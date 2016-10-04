@@ -1,0 +1,10 @@
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Release\Persistencia.dll.config
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Release\Persistencia.dll
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Release\Persistencia.pdb
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Release\EntityFramework.dll
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Release\EntityFramework.xml
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\German\Desktop\TPFINAL\Persistencia\obj\Release\Persistencia.dll
+C:\Users\German\Desktop\TPFINAL\Persistencia\obj\Release\Persistencia.pdb
+C:\Users\German\Desktop\TPFINAL\Persistencia\obj\Release\Persistencia.csprojResolveAssemblyReference.cache

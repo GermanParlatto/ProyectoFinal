@@ -1,0 +1,76 @@
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Form_Campaña.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Form_Configuracion_Campaña.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Form_SeleccionRangoHorario.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Precarga.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Principal.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Form_Banner.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Form_Configuracion_Banner.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Vista.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\UI.exe.config
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\UI.exe
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\UI.pdb
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Dominio.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Servicios.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Persistencia.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\AutoMapper.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\EntityFramework.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Dominio.pdb
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Servicios.pdb
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Persistencia.pdb
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\AutoMapper.xml
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\EntityFramework.xml
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.exe
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.pdb
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Form_FuentesRSS.resources
+C:\Users\German\Desktop\TPFINAL\UI\obj\Debug\UI.Form_FuenteTextoFijo.resources
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\log4net.dll
+C:\Users\German\Desktop\TPFINAL\UI\bin\Debug\log4net.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\UI.exe.config
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.exe
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\UI.exe
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\UI.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Dominio.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\log4net.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Persistencia.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\AutoMapper.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\EntityFramework.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Dominio.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\log4net.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Persistencia.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\AutoMapper.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\EntityFramework.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Form_FuentesRSS.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Form_Campaña.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Form_Configuracion_Campaña.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Form_FuenteTextoFijo.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Form_SeleccionRangoHorario.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Precarga.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Principal.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Form_Banner.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Form_Configuracion_Banner.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.Vista.resources
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\UI\obj\Debug\UI.csproj.GenerateResource.Cache

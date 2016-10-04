@@ -1,0 +1,20 @@
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\German\Desktop\TPFINAL\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\German\Desktop\TPFINAL\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\German\Desktop\TPFINAL\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\German\Desktop\TPFINAL\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\German\Desktop\Archivos de Escritorio\TPFINAL\Persistencia\obj\Debug\Persistencia.pdb

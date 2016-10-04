@@ -1,0 +1,38 @@
+2016-03-31 10:52:15,714 INFO 10 Dominio.Banner - Inicio de la Aplicacion Peolaaa
+2016-03-31 10:53:00,818 INFO 10 Dominio.Banner - Inicio de obtencion RSS en Segundo plano
+2016-03-31 10:53:00,865 INFO 11 Dominio.Banner - Obteniendo feeds...
+2016-03-31 10:53:00,865 DEBUG 11 Dominio.Banner - Obteniendo feeds desde http://www.clarin.com/rss/politica/...
+2016-03-31 10:53:01,052 INFO 11 Dominio.Banner - Ha finalizado la obtención de feeds.
+2016-03-31 10:53:01,052 INFO 11 Dominio.Banner - Adaptando feeds...
+2016-03-31 10:53:01,052 INFO 11 Dominio.Banner - Devolviendo feeds adaptados...
+2016-03-31 10:53:47,383 INFO 10 Dominio.Banner - Inicio de obtencion RSS en Segundo plano
+2016-03-31 10:53:47,492 INFO 11 Dominio.Banner - Problemas de conectividad, excepcion capturada:
+System.UriFormatException: URI no válido: no se puede determinar el formato del URI.
+   en System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   en Dominio.RssReader.Read(String pUrl) en C:\Users\German\Desktop\TPFINAL\Dominio\RSS\RssReader.cs:línea 19
+   en Dominio.FuenteRSS.ActualizarFuente() en C:\Users\German\Desktop\TPFINAL\Dominio\FuenteRSS.cs:línea 90
+   en Dominio.FuenteRSS.Texto() en C:\Users\German\Desktop\TPFINAL\Dominio\FuenteRSS.cs:línea 70
+2016-03-31 10:54:00,899 INFO 10 Dominio.Banner - Inicio de obtencion RSS en Segundo plano
+2016-03-31 10:54:00,899 INFO 11 Dominio.Banner - Problemas de conectividad, excepcion capturada:
+System.UriFormatException: URI no válido: no se puede determinar el formato del URI.
+   en System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   en Dominio.RssReader.Read(String pUrl) en C:\Users\German\Desktop\TPFINAL\Dominio\RSS\RssReader.cs:línea 19
+   en Dominio.FuenteRSS.ActualizarFuente() en C:\Users\German\Desktop\TPFINAL\Dominio\FuenteRSS.cs:línea 90
+   en Dominio.FuenteRSS.Texto() en C:\Users\German\Desktop\TPFINAL\Dominio\FuenteRSS.cs:línea 70
+2016-03-31 10:54:41,870 INFO 10 Dominio.Banner - Inicio de obtencion RSS en Segundo plano
+2016-03-31 10:54:41,870 INFO 11 Dominio.Banner - Problemas de conectividad, excepcion capturada:
+System.UriFormatException: URI no válido: no se puede determinar el formato del URI.
+   en System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   en Dominio.RssReader.Read(String pUrl) en C:\Users\German\Desktop\TPFINAL\Dominio\RSS\RssReader.cs:línea 19
+   en Dominio.FuenteRSS.ActualizarFuente() en C:\Users\German\Desktop\TPFINAL\Dominio\FuenteRSS.cs:línea 90
+   en Dominio.FuenteRSS.Texto() en C:\Users\German\Desktop\TPFINAL\Dominio\FuenteRSS.cs:línea 70
+2016-03-31 11:00:56,522 INFO 10 Dominio.Banner - Inicio de la Aplicacion Peolaaa
+2016-03-31 11:01:12,205 INFO 10 Dominio.Banner - Inicio de obtencion RSS en Segundo plano de URI: www.asd.asd
+2016-03-31 11:01:12,237 INFO 3 Dominio.Banner - Problemas de conectividad, excepcion capturada:
+System.UriFormatException: URI no válido: no se puede determinar el formato del URI.
+   en System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   en Dominio.RssReader.Read(String pUrl) en C:\Users\German\Desktop\TPFINAL\Dominio\RSS\RssReader.cs:línea 19
+   en Dominio.FuenteRSS.ActualizarFuente() en C:\Users\German\Desktop\TPFINAL\Dominio\FuenteRSS.cs:línea 90
+   en Dominio.FuenteRSS.Texto() en C:\Users\German\Desktop\TPFINAL\Dominio\FuenteRSS.cs:línea 70
+2016-03-31 11:04:06,341 INFO 8 Dominio.Banner - Inicio de la Aplicacion Peolaaa
+2016-03-31 11:07:15,969 INFO 9 Dominio.Banner - Inicio de la Aplicacion Peolaaa
